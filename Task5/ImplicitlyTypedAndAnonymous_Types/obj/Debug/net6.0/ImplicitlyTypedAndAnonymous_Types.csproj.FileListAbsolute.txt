@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Task5\ImplicitlyTypedAndAnonymous_Types\bin\Debug\net6.0\ImplicitlyTypedAndAnonymous_Types.exe
+C:\Users\Admin\source\repos\Task5\ImplicitlyTypedAndAnonymous_Types\bin\Debug\net6.0\ImplicitlyTypedAndAnonymous_Types.deps.json
+C:\Users\Admin\source\repos\Task5\ImplicitlyTypedAndAnonymous_Types\bin\Debug\net6.0\ImplicitlyTypedAndAnonymous_Types.runtimeconfig.json
+C:\Users\Admin\source\repos\Task5\ImplicitlyTypedAndAnonymous_Types\bin\Debug\net6.0\ImplicitlyTypedAndAnonymous_Types.dll
+C:\Users\Admin\source\repos\Task5\ImplicitlyTypedAndAnonymous_Types\bin\Debug\net6.0\ImplicitlyTypedAndAnonymous_Types.pdb
+C:\Users\Admin\source\repos\Task5\ImplicitlyTypedAndAnonymous_Types\obj\Debug\net6.0\ImplicitlyTypedAndAnonymous_Types.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Task5\ImplicitlyTypedAndAnonymous_Types\obj\Debug\net6.0\ImplicitlyTypedAndAnonymous_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Task5\ImplicitlyTypedAndAnonymous_Types\obj\Debug\net6.0\ImplicitlyTypedAndAnonymous_Types.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Task5\ImplicitlyTypedAndAnonymous_Types\obj\Debug\net6.0\ImplicitlyTypedAndAnonymous_Types.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Task5\ImplicitlyTypedAndAnonymous_Types\obj\Debug\net6.0\ImplicitlyTypedAndAnonymous_Types.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Task5\ImplicitlyTypedAndAnonymous_Types\obj\Debug\net6.0\ImplicitlyTypedAndAnonymous_Types.dll
+C:\Users\Admin\source\repos\Task5\ImplicitlyTypedAndAnonymous_Types\obj\Debug\net6.0\refint\ImplicitlyTypedAndAnonymous_Types.dll
+C:\Users\Admin\source\repos\Task5\ImplicitlyTypedAndAnonymous_Types\obj\Debug\net6.0\ImplicitlyTypedAndAnonymous_Types.pdb
+C:\Users\Admin\source\repos\Task5\ImplicitlyTypedAndAnonymous_Types\obj\Debug\net6.0\ImplicitlyTypedAndAnonymous_Types.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Task5\ImplicitlyTypedAndAnonymous_Types\obj\Debug\net6.0\ref\ImplicitlyTypedAndAnonymous_Types.dll
